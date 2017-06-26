@@ -1,0 +1,7 @@
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Debug\FSharpPart.XML
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Debug\FSharpPart.dll
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Debug\FSharpPart.pdb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Debug\FSharp.Core.dll
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Debug\FSharp.Core.xml
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\obj\Debug\FSharpPart.dll
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\obj\Debug\FSharpPart.pdb

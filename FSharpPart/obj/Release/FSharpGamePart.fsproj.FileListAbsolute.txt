@@ -1,0 +1,14 @@
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Release\FSharpPart.XML
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Release\FSharpPart.dll
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Release\FSharpPart.pdb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Release\FSharp.Core.dll
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Release\FSharp.Core.xml
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\obj\Release\FSharpPart.dll
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\obj\Release\FSharpPart.pdb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\FSharpPart\bin\Release\FSharpPart.XML
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\FSharpPart\bin\Release\FSharpPart.dll
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\FSharpPart\bin\Release\FSharpPart.pdb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\FSharpPart\bin\Release\FSharp.Core.dll
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\FSharpPart\bin\Release\FSharp.Core.xml
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\FSharpPart\obj\Release\FSharpPart.dll
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\FSharpPart\obj\Release\FSharpPart.pdb

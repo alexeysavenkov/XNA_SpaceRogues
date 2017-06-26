@@ -1,0 +1,88 @@
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\9.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\Eastern Express.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\Glitched.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\Last Day Of November.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\Psychodelic Night.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\SMS In Space.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\cursor.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Textures\background.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\logo.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Textures\empty.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Spritesheets\explosion.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Howto\yes.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Howto\no.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\font48.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\font60.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\font32.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\font72.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\font20.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\9.wma
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\Eastern Express.wma
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\Glitched.wma
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\Last Day Of November.wma
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\Psychodelic Night.wma
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\SMS In Space.wma
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\FSharpPart.dll
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\FSharpPart.pdb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\FSharpPart.xml
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\obj\x86\Release\SPACE_ROGUES.csprojResolveAssemblyReference.cache
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Space Rogues.exe.manifest
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Space Rogues.application
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Space Rogues.exe
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Space Rogues.pdb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Launcher.Designed.dll
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Launcher.Scripted.dll
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Launcher.Designed.pdb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Launcher.Scripted.pdb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Launcher.Scripted.xml
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\obj\x86\Release\Space Rogues.exe.manifest
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\obj\x86\Release\Space Rogues.application
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\obj\x86\Release\Space Rogues.exe
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\obj\x86\Release\Space Rogues.pdb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\FSharp.Core.dll
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\FSharp.Core.xml
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\obj\x86\Release\Space Rogues.exe
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\obj\x86\Release\Space Rogues.pdb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\9.xnb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\Eastern Express.xnb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\Glitched.xnb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\Last Day Of November.xnb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\SMS In Space.xnb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\Psychodelic Night.xnb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\cursor.xnb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Textures\background.xnb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\logo.xnb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Textures\empty.xnb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Spritesheets\explosion.xnb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Howto\yes.xnb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Howto\no.xnb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\font48.xnb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\font60.xnb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\font32.xnb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\font72.xnb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\font20.xnb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\9.wma
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\Eastern Express.wma
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\Glitched.wma
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\Last Day Of November.wma
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\SMS In Space.wma
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Content\Music\Psychodelic Night.wma
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Space Rogues.exe.manifest
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Space Rogues.application
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Space Rogues.exe
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Space Rogues.pdb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\FSharp.Core.dll
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\FSharpPart.dll
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Launcher.Designed.dll
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Launcher.Scripted.dll
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\FSharp.Core.xml
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\FSharpPart.pdb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\FSharpPart.xml
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Launcher.Designed.pdb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Launcher.Scripted.pdb
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Release\Launcher.Scripted.xml
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\obj\x86\Release\SPACE_ROGUES.csprojResolveAssemblyReference.cache
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\obj\x86\Release\Space Rogues.exe.manifest
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\obj\x86\Release\Space Rogues.application

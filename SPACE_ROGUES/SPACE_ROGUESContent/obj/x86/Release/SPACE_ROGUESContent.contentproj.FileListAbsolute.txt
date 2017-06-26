@@ -1,0 +1,2 @@
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUESContent\obj\x86\Release\SPACE_ROGUESContent.contentprojResolveAssemblyReference.cache
+C:\Users\Alosha\Downloads\__SPACE_ROGUES_DISTRIB\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUESContent\obj\x86\Release\SPACE_ROGUESContent.contentprojResolveAssemblyReference.cache

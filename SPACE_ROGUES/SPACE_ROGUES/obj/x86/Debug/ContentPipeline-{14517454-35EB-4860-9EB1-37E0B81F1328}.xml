@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Music\9.mp3</Source>
+      <Name>Music\9</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\9.xnb</Output>
+      <Extra>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\9.wma</Extra>
+      <Time>2014-06-22T00:08:52.481331+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Eastern Express.mp3</Source>
+      <Name>Music\Eastern Express</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\Eastern Express.xnb</Output>
+      <Extra>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\Eastern Express.wma</Extra>
+      <Time>2014-06-03T16:29:38.3186781+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Glitched.mp3</Source>
+      <Name>Music\Glitched</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\Glitched.xnb</Output>
+      <Extra>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\Glitched.wma</Extra>
+      <Time>2014-06-22T00:12:58.0800565+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Last Day Of November.mp3</Source>
+      <Name>Music\Last Day Of November</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\Last Day Of November.xnb</Output>
+      <Extra>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\Last Day Of November.wma</Extra>
+      <Time>2014-06-03T16:29:38.335689+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\SMS in space.mp3</Source>
+      <Name>Music\SMS in space</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\SMS in space.xnb</Output>
+      <Extra>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\SMS in space.wma</Extra>
+      <Time>2014-06-03T16:29:38.3617058+03:00</Time>
+    </Item>
+    <Item>
+      <Source>cursor.png</Source>
+      <Name>cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\cursor.xnb</Output>
+      <Time>2014-06-04T17:29:15.5726466+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\background.png</Source>
+      <Name>Textures\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Textures\background.xnb</Output>
+      <Time>2014-06-04T16:34:48.0499136+03:00</Time>
+    </Item>
+    <Item>
+      <Source>logo.png</Source>
+      <Name>logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\logo.xnb</Output>
+      <Time>2014-06-04T19:25:06.9769301+03:00</Time>
+    </Item>
+    <Item>
+      <Source>font48.spritefont</Source>
+      <Name>font48</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\font48.xnb</Output>
+      <Time>2014-06-25T19:06:13.6793752+03:00</Time>
+    </Item>
+    <Item>
+      <Source>font60.spritefont</Source>
+      <Name>font60</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\font60.xnb</Output>
+      <Time>2014-06-25T19:06:13.6733705+03:00</Time>
+    </Item>
+    <Item>
+      <Source>font32.spritefont</Source>
+      <Name>font32</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\font32.xnb</Output>
+      <Time>2014-06-25T19:06:13.6853796+03:00</Time>
+    </Item>
+    <Item>
+      <Source>font72.spritefont</Source>
+      <Name>font72</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\font72.xnb</Output>
+      <Time>2014-06-25T19:06:13.6663674+03:00</Time>
+    </Item>
+    <Item>
+      <Source>font20.spritefont</Source>
+      <Name>font20</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\font20.xnb</Output>
+      <Time>2014-06-25T19:06:13.6918565+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\empty.png</Source>
+      <Name>Textures\empty</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Textures\empty.xnb</Output>
+      <Time>2014-06-08T21:59:12.8394096+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Spritesheets\explosion.png</Source>
+      <Name>Spritesheets\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Spritesheets\explosion.xnb</Output>
+      <Time>2014-06-09T16:08:18.6150833+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Howto\yes.png</Source>
+      <Name>Howto\yes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Howto\yes.xnb</Output>
+      <Time>2014-06-14T00:49:03.4663313+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Howto\no.png</Source>
+      <Name>Howto\no</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Howto\no.xnb</Output>
+      <Time>2014-06-14T00:50:04.9320829+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\Psychodelic Night.mp3</Source>
+      <Name>Music\Psychodelic Night</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\Psychodelic Night.xnb</Output>
+      <Extra>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\Psychodelic Night.wma</Extra>
+      <Time>2014-06-22T18:35:53.7891433+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{14517454-35EB-4860-9EB1-37E0B81F1328}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUESContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-06-03T14:05:19.2804305+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

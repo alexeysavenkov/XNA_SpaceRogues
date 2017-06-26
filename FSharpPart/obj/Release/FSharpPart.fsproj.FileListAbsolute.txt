@@ -1,0 +1,13 @@
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Release\FSharpPart.XML
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Release\FSharpPart.dll
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Release\FSharpPart.pdb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Release\FSharp.Core.dll
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Release\Microsoft.Xna.Framework.dll
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Release\Microsoft.Xna.Framework.Game.dll
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Release\Microsoft.Xna.Framework.Graphics.dll
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Release\Microsoft.Xna.Framework.xml
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Release\Microsoft.Xna.Framework.Game.xml
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Release\Microsoft.Xna.Framework.Graphics.xml
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\bin\Release\FSharp.Core.xml
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\obj\Release\FSharpPart.dll
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\FSharpPart\obj\Release\FSharpPart.pdb

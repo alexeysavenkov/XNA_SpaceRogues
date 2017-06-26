@@ -1,0 +1,42 @@
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\obj\x86\Debug\SPACE_ROGUES.csprojResolveAssemblyReference.cache
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\9.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\Eastern Express.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\Glitched.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\Last Day Of November.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\SMS in space.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\9.wma
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\Eastern Express.wma
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\Glitched.wma
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\Last Day Of November.wma
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\SMS in space.wma
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\Psychodelic Night.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Music\Psychodelic Night.wma
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\cursor.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Textures\background.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\logo.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\font48.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\font60.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\font32.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\font72.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\font20.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Textures\empty.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Spritesheets\explosion.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Howto\yes.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Content\Howto\no.xnb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\FSharpPart.dll
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\FSharpPart.pdb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\FSharpPart.xml
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Launcher.Designed.dll
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Launcher.Scripted.dll
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Launcher.Designed.pdb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Launcher.Scripted.pdb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Launcher.Scripted.xml
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Space Rogues.exe.manifest
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Space Rogues.application
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Space Rogues.exe
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\bin\x86\Debug\Space Rogues.pdb
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\obj\x86\Debug\Space Rogues.exe.manifest
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\obj\x86\Debug\Space Rogues.application
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\obj\x86\Debug\Space Rogues.exe
+D:\Developing\Visual Studio 2013\Projects\SPACE_ROGUES\SPACE_ROGUES\SPACE_ROGUES\obj\x86\Debug\Space Rogues.pdb
